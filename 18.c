@@ -23,6 +23,7 @@
                     num[i] = num[j];
                     num[j] = b;
  
+                
                 }
  
             }
